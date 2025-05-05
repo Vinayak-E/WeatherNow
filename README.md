@@ -1,4 +1,4 @@
-# Weather Dashboard Application
+# 🌤️ WeatherNow Weather Application
 
 A full-stack weather dashboard that displays **current** and **historical** weather data for selected locations using the OpenWeatherMap API.
 
