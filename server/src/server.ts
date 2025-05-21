@@ -8,9 +8,6 @@ import { connectDB } from './config/db';
 
 dotenv.config();
 
-console.log("✅ Server file loaded");
-
-
 const app: Express = express();
 app.use(cors());
 app.use(express.json());
