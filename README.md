@@ -1,15 +1,16 @@
 🌤️ WeatherNow Weather Application
 A full-stack weather dashboard that displays current and historical weather data for selected locations using the OpenWeatherMap API.
+
 🌤️ Features
 
 🔍 Current weather display: temperature, weather description, and icon
 🕒 Historical weather view with location and date range filtering
-📅 Date range validation (max 30 days)
+📅 Date range validation
 📱 Responsive UI built with Tailwind CSS
 ⚡ GraphQL API for efficient data fetching
 🗃️ MongoDB database for weather data persistence
 
-🧰 Technologies Used
+ Technologies Used
 Backend
 
 Node.js
